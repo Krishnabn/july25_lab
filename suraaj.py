@@ -7,3 +7,4 @@ name = input("What is your name? ")
 print("Hello, " + name + "! Nice to meet you, July 25 Batch.")
 
 print("ADD TO CART!")
+print('Added to new UPI payment option successfully!')
